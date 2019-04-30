@@ -1,1 +1,9 @@
-p {color: Green;}
+h1 
+{
+  color: Orange; 
+}
+p 
+{
+  color: Light Green;
+  text-align: center; 
+}
