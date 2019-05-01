@@ -13,7 +13,7 @@ ol
   color: LightGreen;
 }
 
-body>div 
+div 
 {
   display: inline-block;
   box-sizing: border-box;
