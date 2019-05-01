@@ -13,7 +13,10 @@ ol
   color: LightGreen;
 }
 
-
+ul
+{
+  color: Gray; 
+}
 div 
 {
   display: inline-block;
