@@ -13,11 +13,12 @@ ol
   color: LightGreen;
 }
 
+
 div 
 {
   display: inline-block;
   box-sizing: border-box;
   padding: 1em;
-  width: 50%;
+  width: 40%;
   vertical-align: top;
 }
