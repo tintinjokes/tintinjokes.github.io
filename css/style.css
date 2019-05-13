@@ -5,6 +5,12 @@ header>nav ul {
     background-color: DimGray;
     list-style-type: none;
 }
+header>nav a {
+    display: block;
+    padding: 1em;
+    color: White;
+    text-decoration: none;
+}
 h1 
 {
   color: Orange; 
