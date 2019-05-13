@@ -19,13 +19,15 @@ p
   color: LightGreen;
 }
 
-ol
+body>ol
 {
+  display: inline-block;
   color: LightGreen;
 }
 
-ul
+body>ul
 {
+  
   color: Gray; 
 }
 div 
