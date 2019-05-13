@@ -8,6 +8,12 @@ h3
   color: Orange; 
   align= "center";
 }
+body 
+{
+  margin: 0;
+}
+
+
 p 
 {
   color: LightGreen;
