@@ -20,13 +20,13 @@ p
   color: LightGreen;
 }
 
-body>div>ol
+ol
 {
   display: inline-block;
   color: LightGreen;
 }
 
-body>div>ul
+ul
 {
   color: Gray;
   display: inline-block;
