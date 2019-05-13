@@ -3,36 +3,32 @@ h1
   color: Orange; 
   align= "center";
 }
+
 h3 
 {
   color: Orange; 
   align= "center";
 }
+
 body 
 {
   margin: 0;
 }
-ul
-{
-  color: Gray;  
-}
-ol
-{
-  color: LightGreen; 
-}
+
 p 
 {
   color: LightGreen;
 }
 
-body>ol
+body>div>ol
 {
   display: inline-block;
   color: LightGreen;
 }
 
-body>ul
+body>div>ul
 {
+  color: Gray;
   display" inline-block;
 }
 div 
