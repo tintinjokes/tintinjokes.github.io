@@ -13,13 +13,13 @@ header>nav a {
 }
 h1 
 {
-  color: Orange; 
+  color: White; 
   align= "center";
 }
 
 h3 
 {
-  color: Orange; 
+  color: White; 
   align= "center";
 }
 
@@ -30,13 +30,13 @@ body
 
 p 
 {
-  color: LightGreen;
+  color: White;
 }
 
 ol
 {
   display: inline-block;
-  color: LightGreen;
+  color: White;
 }
 
 ul
