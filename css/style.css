@@ -3,6 +3,13 @@ nav
     margin: 0;
     padding: 0;
 }
+header>nav>ul>li
+{
+    text-align:center;
+    display: block;
+    padding: 2em;
+    text-decoration: none;
+}
 header>nav ul 
 {
     margin: 0;
